@@ -1,3 +1,14 @@
+SYDEX
+
+Next-Generation Drone Delivery Technology
+
+<p align="center">
+  <img src="logo.png" alt="SYDEX Logo" width="200">
+</p>
+
+<p align="center">
+  **Redefining the Future of Last-Mile Delivery**
+</p>
 <p align="center">
   <img src="sydex-logo.png" alt="SYDEX Logo" width="200">
 </p>
