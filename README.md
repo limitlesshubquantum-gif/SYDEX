@@ -71,9 +71,14 @@ Our ongoing development areas include:
 
 This section will document our verified milestones, prototype demonstrations, recognitions, partnerships and other accomplishments as SYDEX progresses.
 
-## Connect With Us
 
 **SYDEX – Student Entrepreneurship Network**
 
-*Innovating today for the delivery systems of tomorrow.*
+*Building ideas. Developing technology. Shaping tomorrow.*
 
+## Connect With Us
+
+Interested in our work, collaboration or innovation? We'd love to hear from you!
+
+- **Email:** [sydexstartup@gmail.com](mailto:sydexstartup@gmail.com)
+- **Instagram:** [@sydexfounders_official](https://www.instagram.com/sydexfounders_official/)
