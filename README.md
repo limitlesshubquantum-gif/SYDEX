@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="sydex-logo.png" alt="SYDEX Logo" width="200">
+  <img src="WhatsApp%20Image%202026-09-29%20at%2022.58.13.jpeg" alt="SYDEX Logo" width="200">
 </p>
 
 <h1 align="center">SYDEX</h1>
