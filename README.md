@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="sydex-logo.png" alt="SYDEX Logo" width="200">
-</p>
 
-<h1 align="center">SYDEX</h1>
-
-<p align="center">
-  Building the Future of Intelligent Delivery
-</p>
 # SYDEX
 Official company profile and technical portfolio of SYDEX.
 # SYDEX
