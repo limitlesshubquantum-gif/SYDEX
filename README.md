@@ -67,9 +67,28 @@ Our ongoing development areas include:
 - Research delivery-system integration.
 - Explore practical pilot projects.
 
-## Our Achievements
+Our Achievements & Milestones
 
-This section will document our verified milestones, prototype demonstrations, recognitions, partnerships and other accomplishments as SYDEX progresses.
+Every innovation begins with an idea. At SYDEX, we are turning our vision into reality through research, experimentation and continuous development.
+
+Our journey so far:
+
+Startup Foundation: Established SYDEX with a vision to innovate in drone-based grocery and everyday essentials delivery.
+
+Product Concept: Developed our initial F450-based drone prototype concept.
+
+Embedded Systems Research: Began developing our own ESP32-based flight-control software concept.
+
+Sensor Integration: Successfully connected ESP32 with MPU6050 in a simulation environment.
+
+Orientation Monitoring: Tested roll and pitch calculations using IMU sensor data.
+
+Smart Control Interface: Developed an experimental smartphone joystick interface.
+
+Battery Monitoring: Implemented experimental voltage monitoring for battery-status display.
+
+Future Connectivity: Began exploring GPS integration and 4G communication for remote telemetry.
+
 
 
 **SYDEX – Student Entrepreneurship Network**
