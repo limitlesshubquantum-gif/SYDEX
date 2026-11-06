@@ -8,10 +8,10 @@
 <p align="center">
   Building the Future of Intelligent Delivery
 </p>
-# SYDEX
+ SYDEX
 Official company profile and technical portfolio of SYDEX.
-# SYDEX
-### Building the Future of Intelligent Delivery
+ SYDEX
+ Building the Future of Intelligent Delivery
 
 **SYDEX** is a student-led technology startup focused on developing innovative drone-based delivery solutions for groceries and everyday essentials.
 
